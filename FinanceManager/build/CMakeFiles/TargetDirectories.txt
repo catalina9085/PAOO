@@ -1,0 +1,3 @@
+C:/Users/catal/OneDrive/Desktop/paoo/FinanceManager/build/CMakeFiles/fm.dir
+C:/Users/catal/OneDrive/Desktop/paoo/FinanceManager/build/CMakeFiles/edit_cache.dir
+C:/Users/catal/OneDrive/Desktop/paoo/FinanceManager/build/CMakeFiles/rebuild_cache.dir

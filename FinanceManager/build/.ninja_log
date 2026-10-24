@@ -1,0 +1,8 @@
+# ninja log v6
+24	1035	8145306289701164	CMakeFiles/fm.dir/src/Transaction.cpp.obj	fce3993518d390f9
+30	1361	8145306289797356	CMakeFiles/fm.dir/src/Income.cpp.obj	9ad7a2e486da1998
+35	1373	8145306289797356	CMakeFiles/fm.dir/src/Expense.cpp.obj	c14da9d09f4ae038
+42	407	8145307227352340	CMakeFiles/fm.dir/src/main.cpp.obj	9ea9248a57bfd89d
+50	454	8145307704307644	CMakeFiles/fm.dir/src/FinanceManager.cpp.obj	f44bcf860ad32d27
+42	463	8145307704307644	CMakeFiles/fm.dir/src/main.cpp.obj	9ea9248a57bfd89d
+463	723	8145307708505903	fm.exe	693d04b534484538
